@@ -1,0 +1,29 @@
+{
+  "name": "budgy",
+  "version": "0.0.1",
+  "description": "A simple budgeting app that uses the 'envelope' method of budgeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-m-morgan/budgy.git"
+  },
+  "keywords": [
+    "budget",
+    "ts",
+    "typescript",
+    "js",
+    "javascript",
+    "jest",
+    "testing",
+    "portfolio"
+  ],
+  "author": "Justin Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-m-morgan/budgy/issues"
+  },
+  "homepage": "https://github.com/justin-m-morgan/budgy#readme"
+}
